@@ -1,0 +1,16 @@
+{
+    "name": "stevenprichard/src",
+    "authors": [
+        {
+            "name": "stevenprichard",
+            "email": "steven.prichard@boldcommerce.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
